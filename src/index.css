@@ -4,7 +4,7 @@
 
 @layer base {
   * {
-    @apply border-border;
+    @apply border-0;
   }
   body {
     @apply bg-gradient-to-br from-purple-600 via-blue-600 to-indigo-700;
